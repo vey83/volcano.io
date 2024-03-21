@@ -39,7 +39,7 @@
     <section>
         <h2>Introduction aux Volcans</h2>
         <p>Les volcans sont des montagnes formées par l'accumulation de lave, de cendres et d'autres matériaux éjectés lors d'éruptions volcaniques.</p>
-        <iframe height="800" width="100%" frameborder="no" src="https://keystone-ats.shinyapps.io/proposalAppBeta/"></iframe
+        <iframe height="800" width="100%" frameborder="no" src="https://keystone-ats.shinyapps.io/proposalAppBeta/"></iframe>
     </section>
     <section>
         <h2>Types de Volcans</h2>
