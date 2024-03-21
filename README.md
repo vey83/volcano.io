@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exploration des Volcans</title>
+    <title>Keystone-ATS - Votations du 18 juin 2023</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,47 +16,22 @@
             text-align: center;
             padding: 20px 0;
         }
-        h1, h2, h3 {
-            margin-bottom: 20px;
-            text-align: center;
-        }
         section {
             padding: 20px;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 0 auto;
+        iframe {
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Exploration des Volcans</h1>
-        <p>Découvrez les merveilles de la nature</p>
+        <h1>Keystone-ATS - Votations du 18 juin 2023</h1>
     </header>
     <section>
-        <h2>Introduction aux Volcans</h2>
-        <p>Les volcans sont des montagnes formées par l'accumulation de lave, de cendres et d'autres matériaux éjectés lors d'éruptions volcaniques.</p>
-        <iframe height="800" width="100%" frameborder="no" src="https://keystone-ats.shinyapps.io/proposalAppBeta/"></iframe>
+        <p>Trois objets fédéraux et de nombreux sujets cantonaux seront soumis au vote populaire le 18 juin prochain. Grâce à une nouveauté, les besoins régionaux seront mieux ciblés lors du dimanche de votation.</p>
+        <p>Afin de renforcer la couverture régionale et de mieux répondre aux besoins spécifiques de ses clients, Keystone-ATS lancera ce jour-là un nouveau produit pour les abonnés du module Live. Chaque canton disposera pour la première fois d'un graphique interactif en direct présentant l'état actuel des sujets cantonaux. Jusqu'à présent, la même offre n'existait que pour les votations fédérales. Les visualisations seront disponibles en allemand, en français et en italien. Le robot de textes Lena sera également en action le dimanche de la votation. A partir des données fournies, Lena produit automatiquement un court texte sur l'issue de la votation pour chaque objet dans chaque commune de Suisse. De plus, des cartes interactives sont créées pour certains sujets cantonaux ainsi que pour les trois objets nationaux. Sur demande, les cartes relatives aux scrutins nationaux peuvent aussi être régionalisées. Les utilisateurs de ces visualisations peuvent observer en direct comment la population suisse se prononce. Actuellement, selon les sondages, les trois objets nationaux seraient acceptés.</p>
     </section>
-    <section>
-        <h2>Types de Volcans</h2>
-        <h3>Volcans Boucliers</h3>
-        <p>Les volcans boucliers ont des éruptions calmes et produisent de larges coulées de lave basaltique.</p>
-        <img src="volcano2.jpg" alt="Volcan bouclier">
-        <h3>Stratovolcans</h3>
-        <p>Les stratovolcans ont des éruptions explosives et produisent des cônes de cendres et de lave.</p>
-        <img src="volcano3.jpg" alt="Stratovolcan">
-    </section>
-    <section>
-        <h2>Activité Volcanique</h2>
-        <p>Les volcans peuvent entrer en éruption à tout moment, causant des dégâts considérables aux zones environnantes.</p>
-        <img src="volcano4.jpg" alt="Volcan en éruption">
-    </section>
-    <footer>
-        <p>&copy; 2024 Exploration des Volcans</p>
-    </footer>
+    <iframe height="800" width="100%" frameborder="no" src="https://keystone-ats.shinyapps.io/proposalAppBeta/"></iframe>
 </body>
 </html>
